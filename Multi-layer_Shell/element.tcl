@@ -1,0 +1,163 @@
+#define element
+element ShellNLDKGQ 1 1 2 11 10 1
+element ShellNLDKGQ 2 2 3 12 11 2
+element ShellNLDKGQ 3 3 4 13 12 2
+element ShellNLDKGQ 4 4 5 14 13 2
+element ShellNLDKGQ 5 5 6 15 14 2
+element ShellNLDKGQ 6 6 7 16 15 2
+element ShellNLDKGQ 7 7 8 17 16 2
+element ShellNLDKGQ 8 8 9 18 17 1
+
+element ShellNLDKGQ 9 10 11 20 19 1
+element ShellNLDKGQ 10 11 12 21 20 2
+element ShellNLDKGQ 11 12 13 22 21 2
+element ShellNLDKGQ 12 13 14 23 22 2
+element ShellNLDKGQ 13 14 15 24 23 2
+element ShellNLDKGQ 14 15 16 25 24 2
+element ShellNLDKGQ 15 16 17 26 25 2
+element ShellNLDKGQ 16 17 18 27 26 1
+
+element ShellNLDKGQ 17 19 20 29 28 1
+element ShellNLDKGQ 18 20 21 30 29 2
+element ShellNLDKGQ 19 21 22 31 30 2
+element ShellNLDKGQ 20 22 23 32 31 2
+element ShellNLDKGQ 21 23 24 33 32 2
+element ShellNLDKGQ 22 24 25 34 33 2
+element ShellNLDKGQ 23 25 26 35 34 2
+element ShellNLDKGQ 24 26 27 36 35 1
+
+element ShellNLDKGQ 25 28 29 38 37 1
+element ShellNLDKGQ 26 29 30 39 38 2
+element ShellNLDKGQ 27 30 31 40 39 2
+element ShellNLDKGQ 28 31 32 41 40 2
+element ShellNLDKGQ 29 32 33 42 41 2
+element ShellNLDKGQ 30 33 34 43 42 2
+element ShellNLDKGQ 31 34 35 44 43 2
+element ShellNLDKGQ 32 35 36 45 44 1
+
+element ShellNLDKGQ 33 37 38 47 46 1
+element ShellNLDKGQ 34 38 39 48 47 2
+element ShellNLDKGQ 35 39 40 49 48 2
+element ShellNLDKGQ 36 40 41 50 49 2
+element ShellNLDKGQ 37 41 42 51 50 2
+element ShellNLDKGQ 38 42 43 52 51 2
+element ShellNLDKGQ 39 43 44 53 52 2
+element ShellNLDKGQ 40 44 45 54 53 1
+
+element ShellNLDKGQ 41 46 47 56 55 1
+element ShellNLDKGQ 42 47 48 57 56 2
+element ShellNLDKGQ 43 48 49 58 57 2
+element ShellNLDKGQ 44 49 50 59 58 2
+element ShellNLDKGQ 45 50 51 60 59 2
+element ShellNLDKGQ 46 51 52 61 60 2
+element ShellNLDKGQ 47 52 53 62 61 2
+element ShellNLDKGQ 48 53 54 63 62 1
+
+element ShellNLDKGQ 49 55 56 65 64 1
+element ShellNLDKGQ 50 56 57 66 65 2
+element ShellNLDKGQ 51 57 58 67 66 2
+element ShellNLDKGQ 52 58 59 68 67 2
+element ShellNLDKGQ 53 59 60 69 68 2
+element ShellNLDKGQ 54 60 61 70 69 2
+element ShellNLDKGQ 55 61 62 71 70 2
+element ShellNLDKGQ 56 62 63 72 71 1
+
+element ShellNLDKGQ 57 64 65 74 73 1
+element ShellNLDKGQ 58 65 66 75 74 2
+element ShellNLDKGQ 59 66 67 76 75 2
+element ShellNLDKGQ 60 67 68 77 76 2
+element ShellNLDKGQ 61 68 69 78 77 2
+element ShellNLDKGQ 62 69 70 79 78 2
+element ShellNLDKGQ 63 70 71 80 79 2
+element ShellNLDKGQ 64 71 72 81 80 1
+
+element ShellNLDKGQ 65 73 74 83 82 1
+element ShellNLDKGQ 66 74 75 84 83 2
+element ShellNLDKGQ 67 75 76 85 84 2
+element ShellNLDKGQ 68 76 77 86 85 2
+element ShellNLDKGQ 69 77 78 87 86 2
+element ShellNLDKGQ 70 78 79 88 87 2
+element ShellNLDKGQ 71 79 80 89 88 2
+element ShellNLDKGQ 72 80 81 90 89 1
+
+element ShellNLDKGQ 73 82 83 92 91 1
+element ShellNLDKGQ 74 83 84 93 92 2
+element ShellNLDKGQ 75 84 85 94 93 2
+element ShellNLDKGQ 76 85 86 95 94 2
+element ShellNLDKGQ 77 86 87 96 95 2
+element ShellNLDKGQ 78 87 88 97 96 2
+element ShellNLDKGQ 79 88 89 98 97 2
+element ShellNLDKGQ 80 89 90 99 98 1
+
+element ShellNLDKGQ 81 91 92 101 100 1
+element ShellNLDKGQ 82 92 93 102 101 2
+element ShellNLDKGQ 83 93 94 103 102 2
+element ShellNLDKGQ 84 94 95 104 103 2
+element ShellNLDKGQ 85 95 96 105 104 2
+element ShellNLDKGQ 86 96 97 106 105 2
+element ShellNLDKGQ 87 97 98 107 106 2
+element ShellNLDKGQ 88 98 99 108 107 1
+
+element ShellNLDKGQ 89 100 101 110 109 1
+element ShellNLDKGQ 90 101 102 111 110 2
+element ShellNLDKGQ 91 102 103 112 111 2
+element ShellNLDKGQ 92 103 104 113 112 2
+element ShellNLDKGQ 93 104 105 114 113 2
+element ShellNLDKGQ 94 105 106 115 114 2
+element ShellNLDKGQ 95 106 107 116 115 2
+element ShellNLDKGQ 96 107 108 117 116 1
+
+element ShellNLDKGQ 97 109 110 119 118 1
+element ShellNLDKGQ 98 110 111 120 119 2
+element ShellNLDKGQ 99 111 112 121 120 2
+element ShellNLDKGQ 100 112 113 122 121 2
+element ShellNLDKGQ 101 113 114 123 122 2
+element ShellNLDKGQ 102 114 115 124 123 2
+element ShellNLDKGQ 103 115 116 125 124 2
+element ShellNLDKGQ 104 116 117 126 125 1
+
+element ShellNLDKGQ 105 118 119 128 127 1
+element ShellNLDKGQ 106 119 120 129 128 2
+element ShellNLDKGQ 107 120 121 130 129 2
+element ShellNLDKGQ 108 121 122 131 130 2
+element ShellNLDKGQ 109 122 123 132 131 2
+element ShellNLDKGQ 110 123 124 133 132 2
+element ShellNLDKGQ 111 124 125 134 133 2
+element ShellNLDKGQ 112 125 126 135 134 1
+
+element ShellNLDKGQ 113 127 128 137 136 1
+element ShellNLDKGQ 114 128 129 138 137 2
+element ShellNLDKGQ 115 129 130 139 138 2
+element ShellNLDKGQ 116 130 131 140 139 2
+element ShellNLDKGQ 117 131 132 141 140 2
+element ShellNLDKGQ 118 132 133 142 141 2
+element ShellNLDKGQ 119 133 134 143 142 2
+element ShellNLDKGQ 120 134 135 144 143 1
+
+element ShellNLDKGQ 121 136 137 146 145 1
+element ShellNLDKGQ 122 137 138 147 146 2
+element ShellNLDKGQ 123 138 139 148 147 2
+element ShellNLDKGQ 124 139 140 149 148 2
+element ShellNLDKGQ 125 140 141 150 149 2
+element ShellNLDKGQ 126 141 142 151 150 2
+element ShellNLDKGQ 127 142 143 152 151 2
+element ShellNLDKGQ 128 143 144 153 152 1
+
+element ShellNLDKGQ 129 145 146 155 154 1
+element ShellNLDKGQ 130 146 147 156 155 2
+element ShellNLDKGQ 131 147 148 157 156 2
+element ShellNLDKGQ 132 148 149 158 157 2
+element ShellNLDKGQ 133 149 150 159 158 2
+element ShellNLDKGQ 134 150 151 160 159 2
+element ShellNLDKGQ 135 151 152 161 160 2
+element ShellNLDKGQ 136 152 153 162 161 1
+
+element ShellNLDKGQ 137 154 155 164 163 1
+element ShellNLDKGQ 138 155 156 165 164 2
+element ShellNLDKGQ 139 156 157 166 165 2
+element ShellNLDKGQ 140 157 158 167 166 2
+element ShellNLDKGQ 141 158 159 168 167 2
+element ShellNLDKGQ 142 159 160 169 168 2
+element ShellNLDKGQ 143 160 161 170 169 2
+element ShellNLDKGQ 144 161 162 171 170 1
+
